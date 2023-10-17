@@ -1,5 +1,5 @@
 # Base configs
-baseurl: "https://joshuasrcho.github.io/photography"
+baseurl: "/photography"
 #baseurl: "" # Comment the above line and uncomment this to test the website locally
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
@@ -17,10 +17,11 @@ footer:
  bio: "I am a robotics engineer from Los Angeles, CA. When I'm not busy tinkering with robots, I'm out exploring with my camera. Discover the world through my lens."
 #  github:
 web_design:
-email:joshuasrcho@gmail.com
+email: "joshuasrcho@gmail.com"
 # Configure which exif data to display
 # Tag is the actual exif tag, icon is a fontawesome icon. Use JSON notation without line breaks
-exif: '[{"tag": "Model", "icon": "camera-retro"}, {"tag": "FNumber", "icon": "dot-circle-o"}, {"tag": "ExposureTime", "icon": "clock-o"}, {"tag": "ISOSpeedRatings", "icon": "info-circle"}]'
+exif: '[]'
+# exif: '[{"tag": "Model", "icon": "camera-retro"}, {"tag": "FNumber", "icon": "dot-circle-o"}, {"tag": "ExposureTime", "icon": "clock-o"}, {"tag": "ISOSpeedRatings", "icon": "info-circle"}]'
 social_urls:
   # twitter: "https://www.twitter.com/ram__patra"
   instagram: "https://www.instagram.com/sr_cho_"
