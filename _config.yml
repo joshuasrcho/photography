@@ -6,15 +6,14 @@ image_thumbs_loc: "/images/thumbs"
 # google_analytics: "UA-46465113-2"
 
 # UI configs
-title: "Photography by Joshua Cho"
-subtitle: "See the world through my eyes!"
+title: "Joshua Cho Photography"
 author: "Joshua Cho"
 header:
- title: "Photography"
- subtitle: "by Joshua Cho"
+ title: "Joshua Cho"
+#  subtitle: "by Joshua Cho"
 footer:
- name: "Hey there, my name is Joshua"
- bio: "I am a robotics engineer from Los Angeles, CA. When I'm not busy tinkering with robots, I'm out exploring with my camera. Discover the world through my lens."
+#  name: "Hey there, my name is Joshua"
+#  bio: "I am a robotics engineer from Los Angeles, CA. When I'm not busy tinkering with robots, I'm out exploring with my camera. Discover the world through my lens."
 #  github:
 web_design:
 email: "joshuasrcho@gmail.com"
@@ -24,7 +23,7 @@ exif: '[]'
 # exif: '[{"tag": "Model", "icon": "camera-retro"}, {"tag": "FNumber", "icon": "dot-circle-o"}, {"tag": "ExposureTime", "icon": "clock-o"}, {"tag": "ISOSpeedRatings", "icon": "info-circle"}]'
 social_urls:
   # twitter: "https://www.twitter.com/ram__patra"
-  instagram: "https://www.instagram.com/sr_cho_"
+  instagram: "https://www.instagram.com/jcho_photo"
   # dribbble: "https://dribbble.com/rampatra"
   # linkedin: "https://in.linkedin.com/in/ram-patra"
   # github: "https://www.github.com/rampatra"
